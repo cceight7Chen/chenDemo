@@ -13,5 +13,7 @@ public class IndexController {
     public String getAllUser(){
         return "index";
     }
+	
+	
 
 }
